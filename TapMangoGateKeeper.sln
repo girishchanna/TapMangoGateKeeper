@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapMangoGateKeeper", "TapMangoGateKeeper\TapMangoGateKeeper.csproj", "{71311823-3AE1-4A6F-9726-6785949B5386}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapMangoRateLimiter.Tests", "TapMangoRateLimiter.Tests\TapMangoRateLimiter.Tests.csproj", "{07A7660B-2926-47AE-9054-F984D0D287BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71311823-3AE1-4A6F-9726-6785949B5386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71311823-3AE1-4A6F-9726-6785949B5386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71311823-3AE1-4A6F-9726-6785949B5386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71311823-3AE1-4A6F-9726-6785949B5386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07A7660B-2926-47AE-9054-F984D0D287BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A7660B-2926-47AE-9054-F984D0D287BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A7660B-2926-47AE-9054-F984D0D287BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A7660B-2926-47AE-9054-F984D0D287BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED4DB155-374C-452F-8436-854831AB544C}
+	EndGlobalSection
+EndGlobal
